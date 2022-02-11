@@ -1,0 +1,65 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+
+
+#part-1{
+    display: flex;
+    background-image: url(deg-photo/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 8%;
+}
+
+
+.box-1{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+
+
+.span-tag{
+    color: purple;
+}
+.link-1{
+    text-decoration: none;
+    background-image: linear-gradient(pink,rgb(0, 255, 42),yellow);
+    padding: 10px 30px;
+    color:rgb(250, 10, 10);
+    border-radius: 10px;
+    border: 2px solid maroon;
+}
+.box-1 img{
+    width: 80%;
+}
+h1{
+    font-size: 50px;
+}
+#part-2{
+    display: flex;
+    background-image:url(deg-photo/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    
+}
+.box-2{
+    width: 70%;
+    padding:5%;
+  
+   
+}
+
+
+.box-2 img{
+    width: 110%;
+    padding-right: 5%;
+    
+}
+
+h2{
+    color: mediumpurple;
+    font-size: 30px;
+}
