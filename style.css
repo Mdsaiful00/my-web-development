@@ -47,14 +47,15 @@ h1{
 }
 .box-2{
     width: 70%;
-    padding:5%;
+    padding-left:3% ;
+    
   
    
 }
 
 
 .box-2 img{
-    width: 110%;
+    width: 90%;
     padding-right: 5%;
     
 }
@@ -62,4 +63,52 @@ h1{
 h2{
     color: mediumpurple;
     font-size: 30px;
+}
+#part-3{
+    background-image: url(deg-photo/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 5%;
+    
+}
+.box-3{
+    display: flex;
+    
+}
+.box-3 h3{
+    color: maroon;
+}
+.box-3 h2{
+    color: midnightblue;
+}
+.box-3 div{
+    box-shadow: 7px 5px 50px purple;
+     margin: 20px;
+     height: 50%;
+   
+}
+.box-4{
+    border-left: 7px solid ;
+    border-image:linear-gradient(180deg,blue,green);
+    border-image-slice: 1;
+    padding:10px;
+    text-align: justify;
+    background-color: lightcoral;
+
+    
+    
+    
+}
+.box-5{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,green);
+    border-image-slice: 1;
+    text-align: justify;
+    padding: 10px;
+    background-color: lightcoral;
+    
+}
+footer{
+    text-align: center;
+    color: midnightblue;
 }
